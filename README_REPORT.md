@@ -13,3 +13,8 @@
   - 2. Also you can see the code of this part in amir_hajibeygi_400102458_partone.I have plotted The Temperature profile:
 
     ![Fin](images/Fin14.PNG)
+
+
+**Second part:**
+  -  1. In this section, instead of the constant temperature assumption, the constant flux assumption is used. The conditions in this section are unsteady and depend on time. Now, we will use the unsteady formula for it and for each stage with a specific time step, we will use the convergence condition for that time step. As mentioned, we will obtain the time step from the convergence condition:
+    ![Fin](images/Fin15.PNG) 
