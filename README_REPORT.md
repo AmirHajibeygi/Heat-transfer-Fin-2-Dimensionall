@@ -10,4 +10,6 @@
     
     ![Fin](images/Fin13.PNG)
 
-  - 2. Also you can see the code of this part in amir_hajibeygi_400102458_part_first
+  - 2. Also you can see the code of this part in amir_hajibeygi_400102458_partone.I have plotted The Temperature profile:
+
+    ![Fin](images/Fin14.PNG)
