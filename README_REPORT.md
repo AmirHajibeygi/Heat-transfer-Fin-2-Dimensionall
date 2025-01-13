@@ -21,5 +21,7 @@
 
 
   - 2. Based on the answers in this section, we have taken the time step to be 5 seconds. Now that the time step has been obtained, we will introduce the required formulas:
+   
+       
     ![Fin](images/Fin16.PNG) 
     
