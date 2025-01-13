@@ -14,6 +14,6 @@ This project focuses on the simulation and coding of a fin to analyze its temper
 ![Fin](images/Fin.PNG)
 
 
-**And also yo can see the 3 Dimensional picture of this Fin:**
+**And also you can see the 3 Dimensional picture of this Fin:**
 
 ![Fin](images/Fin3.PNG)
