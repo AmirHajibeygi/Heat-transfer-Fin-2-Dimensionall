@@ -17,3 +17,7 @@ This project focuses on the simulation and coding of a fin to analyze its temper
 **And also you can see the 3 Dimensional picture of this Fin:**
 
 ![Fin](images/Fin3.PNG)
+
+
+**Desires:**
+  - 1. First, assume that the fin base, the 20 cm cross-sectional surface, has a constant temperature of 35 degrees Celsius, and the bottom surface of the steel disk, i.e. the 40 cm cross-sectional surface, is insulated. On both sides, there are air and water according to the problem description. Under these conditions, calculate the temperature of the nodes in the base conditions and draw the temperature profile. Then, at a distance of 5 cm from the top surface of the disk, draw the exact bottom layer of the rubber fin according to the radius. To draw In the diagram, consider the meshes associated with angles 0 and 180.
