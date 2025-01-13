@@ -26,4 +26,4 @@ For the next mesh, divide the angle of the complete circle into 10 parts and mes
       ![Fin](images/Fin4.PNG)
 
 
-  - 2.**Now suppose that instead of a constant temperature in the 20 cm section, a constant current of 5 × 104 𝑊𝑊/𝑚𝑚^2 is applied and the entire bottom disk is insulated so that the only way for heat to enter it is through the 5 cm fin base. In this section, considering the temperature of the base of the alpha section as the initial temperature, find the time required for the minimum temperature between the meshes of the steel disk to reach 48 degrees Celsius.**
+  - 2.  **Now suppose that instead of a constant temperature in the 20 cm section, a constant current of 5 × 104 𝑊𝑊/𝑚𝑚^2 is applied and the entire bottom disk is insulated so that the only way for heat to enter it is through the 5 cm fin base. In this section, considering the temperature of the base of the alpha section as the initial temperature, find the time required for the minimum temperature between the meshes of the steel disk to reach 48 degrees Celsius.**
