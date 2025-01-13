@@ -6,3 +6,5 @@
 
 
 **Now that the overall shape is in place, let's go to the dimensions of the rectangles, which are 30 * 12 cm for the top rectangle, 10 * 40 cm for the bottom rectangle, and 5*20 cm for the top. The material of the rectangle and the surface is steel, and the bottom and top are copper. The values ​​​​regarding copper and steel are as follows in the table below:**
+
+![Fin](images/Fin12.PNG)
