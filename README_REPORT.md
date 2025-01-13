@@ -29,4 +29,6 @@
 
     ![Fin](images/Fin16.PNG) 
 
-    
+  - 4. In this section, we need to obtain the time at which the minimum temperature in the system reaches 48 degrees Celsius, based on which we can obtain the maximum temperature at this time and draw a graph for the node for which the maximum temperature occurred at that time:
+
+   ![Fin](images/Fin17.PNG) 
