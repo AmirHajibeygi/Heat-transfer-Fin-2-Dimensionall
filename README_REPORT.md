@@ -24,4 +24,9 @@
    
        
     ![Fin](images/Fin15.PNG) 
+
+  - 3. Our assumption in this question is that the existence of the upper rectangle has been ignored and only the middle and bottom have been analyzed:
+
+    ![Fin](images/Fin16.PNG) 
+
     
