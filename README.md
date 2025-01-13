@@ -12,3 +12,8 @@ This project focuses on the simulation and coding of a fin to analyze its temper
 **You can find the required properties for copper from the references, but the properties related to the disc steel are as described below:**
 
 ![Fin](images/Fin.PNG)
+
+
+**And also yo can see the 3 Dimensional picture of this Fin:**
+
+![Fin](images/Fin3.PNG)
