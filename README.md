@@ -27,5 +27,10 @@ For the next mesh, divide the angle of the complete circle into 10 parts and mes
 
 
   - 2.  **Now suppose that instead of a constant temperature in the 20 cm section, a constant current of 5 × 104 𝑊𝑊/𝑚𝑚^2 is applied and the entire bottom disk is insulated so that the only way for heat to enter it is through the 5 cm fin base. In this section, considering the temperature of the base of the alpha section as the initial temperature, find the time required for the minimum temperature between the meshes of the steel disk to reach 48 degrees Celsius.**
+
+
+
    
   -  3.  **At the moment when the minimum temperature reached 48 degrees, also find the maximum temperature in the disk and plot the temperature changes of these nodes over time and analyze the results.**
+   
+  -  4.  **Draw a three-dimensional graph of the temperature of the central nodes over the time calculated in Part 2. The axes of the graph should include the temperature and location of each node and time.**
