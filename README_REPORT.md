@@ -44,4 +44,4 @@ T_need at each step to have a specific matrix that is 300*20. Now we will use su
 
     ![Fin](images/Fin19.PNG) 
 
-**Conclusion:** Because we assumed system 2-Dimensional,our code and plots have some problems that have been corrected in 3-Dimensional code of this Fin and you can observe this code in my github
+**Conclusion:** We assumed system 2-Dimensional and because of it ,our code and plots have some problems that have been corrected in 3-Dimensional code of this Fin and you can observe this code in next repository related to Heat transfer.
