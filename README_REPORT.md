@@ -43,3 +43,5 @@ In this section, we will put the temperature of each point into a matrix called
 T_need at each step to have a specific matrix that is 300*20. Now we will use surf and draw the graph for it:
 
     ![Fin](images/Fin19.PNG) 
+
+**Conclusion:** Because we assumed system 2-Dimensional,our code and plots have some problems that have been corrected in 3-Dimensional code of this Fin and you can observe this code in my github
