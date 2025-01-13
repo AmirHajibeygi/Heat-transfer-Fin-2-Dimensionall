@@ -37,3 +37,7 @@
   - 1. In this section, we are asked to create a 3D diagram of central nodes. First, we identify the central nodes:
 
     ![Fin](images/Fin18.PNG) 
+
+  - 2. The central points are the points marked in brown.
+In this section, we will put the temperature of each point into a matrix called
+T_need at each step to have a specific matrix that is 300*20. Now we will use surf and draw the graph for it:
